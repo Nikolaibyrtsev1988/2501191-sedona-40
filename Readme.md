@@ -2,7 +2,7 @@
 
 * Студент: [Николай Бурцев](https://up.htmlacademy.ru/htmlcss/40/user/2501191).
 * Наставник: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
-
+* Сайт [Мой проект Седона](https://nikolaibyrtsev1988.github.io/2501191-sedona-40/.)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
